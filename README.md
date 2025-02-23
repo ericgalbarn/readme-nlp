@@ -44,7 +44,7 @@ The model is trained on the Microsoft Research Paraphrase Corpus (MRPC), which i
 1. Run all preliminary code sections
 2. When you reach the "Upload dataset" section:
 
-   <img width="539" alt="Image" src="https://github.com/user-attachments/assets/4de1f6f0-7b11-4235-ba37-0898f655b02c" />
+<img width="539" alt="Image" src="https://github.com/user-attachments/assets/4de1f6f0-7b11-4235-ba37-0898f655b02c" />
 
 3. Continue executing the notebook
 4. At the "Process and compare" section:
@@ -56,19 +56,7 @@ The model is trained on the Microsoft Research Paraphrase Corpus (MRPC), which i
 
 ## 📋 Example Output
 
-```
-Similar Sentence Pairs:
-
-Document 1 Sentence 3: In the labyrinth of uncharted echoes, a cascade of spectral illusions dances with whispers of forgotten dreams.
-Document 2 Sentence 3: In the labyrinth of uncharted echoes, a cascade of spectral illusions dances with whispers of forgotten dreams.
-Similarity Score: 1.0000
-
-Document 1 Sentence 4: Transcending the realm of logic, intangible fragments of time weave a tapestry of ephemeral enigmas, leaving the mind adrift in a sea of shimmering paradoxes.
-Document 2 Sentence 4: Transcending the realm of logic, intangible fragments of time weave a tapestry of ephemeral enigmas, leaving the mind adrift in a sea of shimmering paradoxes.
-Similarity Score: 1.0000
-
-Document Similarity: 12.56%
-```
+<img width="467" alt="Image" src="https://github.com/user-attachments/assets/1dd25aca-4c37-4217-89c9-03a8de2b5f26" />
 
 ## 🧮 Technical Implementation
 
