@@ -76,6 +76,3 @@ The training dataset includes:
 
 [Add contributor information here]
 
-## 📫 Contact
-
-[Add contact information here]
