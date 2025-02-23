@@ -69,18 +69,7 @@ The project uses several key technologies:
 ## 📥 Dataset Format
 
 The training dataset includes:
-```
-Quality    #1 ID    #2 ID
-1          702876   702977
-0          2108705  2108831
-1          1330381  1330521
-0          3344667  3344648
-1          1236820  1236712
-```
-
-## ⚖️ License
-
-[Include your license information here]
+<img width="540" alt="Image" src="https://github.com/user-attachments/assets/63d59749-a740-4857-883a-ea5c429ab881" />
 
 ## 👥 Contributors
 
