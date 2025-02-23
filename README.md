@@ -69,7 +69,8 @@ The project uses several key technologies:
 ## 📥 Dataset Format
 
 The training dataset includes:
-<img width="540" alt="Image" src="https://github.com/user-attachments/assets/63d59749-a740-4857-883a-ea5c429ab881" />
+<br/>
+<img width="540" alt="Image" src="https://github.com/user-attachments/assets/f5ee00c8-0c50-4f14-9947-b11ef6f1721e" />
 
 ## 👥 Contributors
 
