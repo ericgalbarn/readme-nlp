@@ -74,5 +74,8 @@ The training dataset includes:
 
 ## 👥 Contributors
 
-[Add contributor information here]
+- 22BI13184 - Nguyễn Quang Hưng
+- 22BI13149 - Vũ Tuấn Hải
+- 22BI13092 - Nguyễn Minh Đức
+- 22BI13201 - Nguyễn Thế Khải
 
