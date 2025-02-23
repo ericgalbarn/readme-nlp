@@ -43,10 +43,8 @@ The model is trained on the Microsoft Research Paraphrase Corpus (MRPC), which i
 
 1. Run all preliminary code sections
 2. When you reach the "Upload dataset" section:
-   ```python
-   # Upload your training and testing datasets
-   # Choose msr_paraphrase_train.txt and msr_paraphrase_test.txt when prompted
-   ```
+
+   <img width="539" alt="Image" src="https://github.com/user-attachments/assets/4de1f6f0-7b11-4235-ba37-0898f655b02c" />
 
 3. Continue executing the notebook
 4. At the "Process and compare" section:
